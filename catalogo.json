@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "catalogo": [
     {
       "nombre": "1 to 10",
@@ -4593,6 +4593,14 @@
         {
           "nombre": "CAPITULO 2",
           "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/tr/tr_t4_02.mp4"
+        },
+        {
+          "nombre": "CAPITULO 3",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/tr/tr_t4_03.mp4"
+        },
+        {
+          "nombre": "CAPITULO 4",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/tr/tr_t4_04.mp4"
         }
       ],
       "estado": "EMISION"
