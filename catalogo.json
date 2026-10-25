@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "catalogo": [
     {
       "nombre": "1 to 10",
@@ -2230,6 +2230,46 @@
       "estado": "En emisión"
     },
     {
+      "nombre": "El cazador quiere vivir tranquilamente",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/E/elcazadorquiere.jpg",
+      "descripcion": "Hace 11 años, comenzó una era de caos con la aparición de una gigantesca grieta. En medio de la desesperación, un fenómeno conocido como el sistema apareció frente a algunas personas, y un humano llamado Cha Eui-jae despertó como Cazador J, convirtiéndose en el héroe del mundo. Mientras salvaba al mundo como de costumbre, Eui-jae y sus compañeros se adentraron en una grieta de nivel 1 que había aparecido en el mar del oeste para cerrarla. Después de una feroz batalla en la que perdió a sus 44 compañeros, Eui-jae logró cerrar milagrosamente la grieta de nivel 1, y cuando despertó... había sobrevivido solo, en un futuro ocho años después. El Cazador J era ya una figura muerta. El mundo era tan pacífico que parecía que todos los sacrificios habían tenido sentido, y Eui-jae sintió una gran sensación de vacío. Decidió finalmente vivir una vida tranquila.",
+      "capitulos": [
+        {
+          "nombre": "1 - 10",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ecq_00-10.pdf"
+        },
+        {
+          "nombre": "11 - 20",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ecq_11-20.pdf"
+        },
+        {
+          "nombre": "21 - 35",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ecq_21-35.pdf"
+        },
+        {
+          "nombre": "36 - 40",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ecq_36-40.pdf"
+        },
+        {
+          "nombre": "41 - 50",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ecq_41-50.pdf"
+        },
+        {
+          "nombre": "51 - 60",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ecq_51-60.pdf"
+        },
+        {
+          "nombre": "61 - 70",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ecq_61-70.pdf"
+        },
+        {
+          "nombre": "71 - 75 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ecq_71-75.pdf"
+        }
+      ],
+      "estado": "Completo"
+    },
+    {
       "nombre": "El chico de las perlas",
       "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/E/elchicodelasperlas.jpg",
       "descripcion": "En medio de la desesperación por saldar una deuda abrumadora, la vida de un joven cambia radicalmente al cruzarse con un hombre misterioso que oculta una extraordinaria y fantástica condición física. Este encuentro fortuito desencadena una intensa y apasionada relación marcada por el misterio, el deseo y un vínculo inusual que transformará el destino de ambos para siempre.",
@@ -2446,6 +2486,46 @@
       "estado": "Completo"
     },
     {
+      "nombre": "Empatía",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/E/empatia.jpg",
+      "descripcion": "Ji-wook lleva una vida aburrida y con una rutina monótona , esto cambia después de un encuentro inesperado con Joo-yeon un nuevo estudiante que conoce en una reunión del club. A pesar de su apariencia, Joo-yeon parece no mostrarle ningún interés , Ji-wook al ver la reacción de Jooyeon decide enseñarle una lección a su manera. Sin embargo, la situación se descontrola y Ji-wook se despierta en un lugar desconocido cubierto de semen y sin recordar. Ji-wook que solía ser una persona dominante , ahora esta bajo el control de Jooyeon.",
+      "capitulos": [
+        {
+          "nombre": "T1 1-10",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ep_t1_01-10.pdf"
+        },
+        {
+          "nombre": "T1 11-20",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ep_t1_11-20.pdf"
+        },
+        {
+          "nombre": "T1 21-34 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ep_t1_21-34.pdf"
+        },
+        {
+          "nombre": "T2 35-40",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ep_t2_35-40.pdf"
+        },
+        {
+          "nombre": "T2 41-52",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ep_t1_41-52.pdf"
+        }
+      ],
+      "estado": "En emisión"
+    },
+    {
+      "nombre": "En busca del cuarto perfecto",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/E/enbuscadelcuartoperfecto.jpg",
+      "descripcion": "𝐉𝐚𝐞𝐲𝐨𝐨𝐧, 𝐮𝐧 𝐞𝐬𝐭𝐮𝐝𝐢𝐚𝐧𝐭𝐞 𝐝𝐞 𝐩𝐨𝐬𝐠𝐫𝐚𝐝𝐨, 𝐧𝐨 𝐥𝐨𝐠𝐫𝐚 𝐬𝐨𝐩𝐨𝐫𝐭𝐚𝐫 𝐞𝐥 𝐜𝐨𝐧𝐬𝐭𝐚𝐧𝐭𝐞 𝐫𝐮𝐢𝐝𝐨 𝐝𝐞 𝐥𝐚 𝐯𝐢𝐝𝐚 𝐮𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐚𝐫𝐢𝐚 𝐞𝐧 𝐬𝐮 𝐩𝐞𝐪𝐮𝐞ñ𝐨 𝐚𝐩𝐚𝐫𝐭𝐚𝐦𝐞𝐧𝐭𝐨, 𝐥𝐨 𝐪𝐮𝐞 𝐟𝐢𝐧𝐚𝐥𝐦𝐞𝐧𝐭𝐞 𝐥𝐨 𝐢𝐦𝐩𝐮𝐥𝐬𝐚 𝐚 𝐛𝐮𝐬𝐜𝐚𝐫 𝐮𝐧 𝐧𝐮𝐞𝐯𝐨 𝐡𝐨𝐠𝐚𝐫. 𝐝𝐞𝐬𝐩𝐮é𝐬 𝐝𝐞 𝐮𝐧𝐚 𝐬𝐞𝐫𝐢𝐞 𝐝𝐞 𝐛ú𝐬𝐪𝐮𝐞𝐝𝐚𝐬 𝐢𝐧𝐟𝐫𝐮𝐜𝐭𝐮𝐨𝐬𝐚𝐬, 𝐞𝐥 𝐝𝐞𝐬𝐭𝐢𝐧𝐨 𝐥𝐨 𝐠𝐮í𝐚 𝐡𝐚𝐬𝐭𝐚 𝐮𝐧𝐚 𝐢𝐧𝐦𝐨𝐛𝐢𝐥𝐢𝐚𝐫𝐢𝐚 𝐝𝐨𝐧𝐝𝐞 𝐜𝐨𝐧𝐨𝐜𝐞 𝐚 𝐘𝐞𝐨𝐧𝐠𝐡𝐚𝐧, 𝐮𝐧 𝐚𝐭𝐫𝐚𝐜𝐭𝐢𝐯𝐨 𝐚𝐠𝐞𝐧𝐭𝐞 𝐢𝐧𝐦𝐨𝐛𝐢𝐥𝐢𝐚𝐫𝐢𝐨. 𝐜𝐚𝐮𝐭𝐢𝐯𝐚𝐝𝐨 𝐩𝐨𝐫 𝐥𝐚 𝐩𝐫𝐞𝐬𝐞𝐧𝐜𝐢𝐚 𝐞𝐥𝐞𝐠𝐚𝐧𝐭𝐞 𝐲 𝐥𝐚 𝐜𝐨𝐧𝐬𝐢𝐝𝐞𝐫𝐚𝐝𝐚 𝐚𝐭𝐞𝐧𝐜𝐢ó𝐧 𝐝𝐞 𝐘𝐞𝐨𝐧𝐠𝐡𝐚𝐧, 𝐣𝐚𝐞𝐲𝐮𝐧 𝐜𝐨𝐦𝐢𝐞𝐧𝐳𝐚 𝐚 𝐮𝐬𝐚𝐫 𝐥𝐚 𝐛ú𝐬𝐪𝐮𝐞𝐝𝐚 𝐝𝐞 𝐯𝐢𝐯𝐢𝐞𝐧𝐝𝐚 𝐜𝐨𝐦𝐨 𝐩𝐫𝐞𝐭𝐞𝐱𝐭𝐨 𝐩𝐚𝐫𝐚 𝐦𝐚𝐧𝐭𝐞𝐧𝐞𝐫 𝐞𝐥 𝐜𝐨𝐧𝐭𝐚𝐜𝐭𝐨 𝐜𝐨𝐧 é𝐥. 𝐚𝐡𝐨𝐫𝐚 𝐥𝐚 𝐩𝐫𝐞𝐠𝐮𝐧𝐭𝐚 𝐪𝐮𝐞 𝐬𝐮𝐫𝐠𝐞 𝐞𝐬: ¿𝐩𝐨𝐝𝐫á 𝐉𝐚𝐞𝐲𝐨𝐨𝐧 𝐜𝐨𝐧𝐪𝐮𝐢𝐬𝐭𝐚𝐫 𝐧𝐨 𝐬𝐨𝐥𝐨 𝐞𝐥 𝐡𝐨𝐠𝐚𝐫 𝐝𝐞 𝐬𝐮𝐬 𝐬𝐮𝐞ñ𝐨𝐬 𝐬𝐢𝐧𝐨 𝐭𝐚𝐦𝐛𝐢é𝐧 𝐞𝐥 𝐚𝐦𝐨𝐫 𝐪𝐮𝐞 𝐞𝐬𝐭á 𝐟𝐥𝐨𝐫𝐞𝐜𝐢𝐞𝐧𝐝𝐨 𝐞𝐧 𝐬𝐮 𝐜𝐨𝐫𝐚𝐳ó𝐧?",
+      "capitulos": [
+        {
+          "nombre": "Completo y extras",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ecp_completo.pdf"
+        }
+      ],
+      "estado": "Completo"
+    },
+    {
       "nombre": "En el ojo de la tormenta",
       "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/E/enelojodelatormenta.jfif",
       "descripcion": "Un talentoso pintor de medicina tradicional se ve envuelto en una intrincada red de secretos, romance y traiciones tras conocer a un enigmático y poderoso hombre de la nobleza. En medio de un tenso clima de intrigas políticas y pasiones prohibidas, ambos se ven arrastrados por una atracción inevitable que amenaza con destruir sus mundos. Esta cautivadora historia de época explora los límites del deber y el deseo, donde sobrevivir al peligro exige confiar en la persona más impredecible de todas.",
@@ -2470,6 +2550,74 @@
       "estado": "3ra Temporada no confirman fecha"
     },
     {
+      "nombre": "En la nube",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/E/enlanube.jpg",
+      "descripcion": "Skylar tiene un pasatiempo secreto: Tomar fotos de su crush, Chan-il. Pero cuando Cirrus se topa con el almacenamiento en la nube de Skylar y con su impresionante colección de fotos de Chan-il, las cosas se intensifican rápidamente . Al principio confía en que su secreto está a salvo con Cirrus, pero Skylar se encuentra continuamente en situaciones comprometedoras, lo que le hace cuestionar los verdaderos motivos de Cirrus.",
+      "capitulos": [
+        {
+          "nombre": "1-10",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/enl_01-10.pdf"
+        },
+        {
+          "nombre": "11-20",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/enl_11-20.pdf"
+        },
+        {
+          "nombre": "21-30",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/enl_21-30.pdf"
+        },
+        {
+          "nombre": "31-40",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/enl_31-40.pdf"
+        },
+        {
+          "nombre": "41-50",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/enl_41-50.pdf"
+        },
+        {
+          "nombre": "51-54",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/enl_51-54.pdf"
+        },
+        {
+          "nombre": "55-60",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/enl_55-60.pdf"
+        },
+        {
+          "nombre": "61-70",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/enl_61-70.pdf"
+        },
+        {
+          "nombre": "71-80",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/enl_71-80.pdf"
+        },
+        {
+          "nombre": "81-91",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/enl_81-91.pdf"
+        },
+        {
+          "nombre": "92-100",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/enl_92-100.pdf"
+        },
+        {
+          "nombre": "101-110",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/enl_101-110.pdf"
+        },
+        {
+          "nombre": "111-120",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/enl_111-120.pdf"
+        },
+        {
+          "nombre": "121-131 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/enl_121-131.pdf"
+        }
+        {
+          "nombre": "NOTAS",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/enl_notas.pdf"
+        }
+      ],
+      "estado": "Completo"
+    },
+    {
       "nombre": "En un solo disparo",
       "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/E/enunsolodisparo.jpg",
       "descripcion": "Estoy embarazado Jeongwon revela que está embarazado después de tener una aventura de una noche con él Omega Gyeonwoo. Gyeonwoo está avergonzado porque no tiene memoria. Dijo que asumiría la responsabilidad y me dijo que fuera a su casa. Jeongwon sonríe significativamente.",
@@ -2485,6 +2633,54 @@
         {
           "nombre": "EXTRAS 1-6 FIN",
           "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/en_extras_01-06.pdf"
+        }
+      ],
+      "estado": "Completo"
+    },
+    {
+      "nombre": "Entre azar y destino",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/E/entreazarydestino.jpg",
+      "descripcion": "La fatiga de Dojun es cada vez peor y él solo anhela vivir en paz. Para él, que las parejas las decida el destino o que nada se deje al azar es absurdo. Sin embargo, su encuentro con Tae-Seok le hará cambiar de opinión.",
+      "capitulos": [
+        {
+          "nombre": "T1 1-10",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ezd_t1_01-10.pdf"
+        },
+        {
+          "nombre": "T1 11-20",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ezd_t1_11-20.pdf"
+        },
+        {
+          "nombre": "T1 21-30 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ezd_t1_21-30.pdf"
+        },
+        {
+          "nombre": "T2 31-40",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ezd_t2_31-40.pdf"
+        },
+        {
+          "nombre": "T2 41-50",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ezd_t2_41-50.pdf"
+        },
+        {
+          "nombre": "T2 51-61 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ezd_t2_51-61.pdf"
+        },
+        {
+          "nombre": "T2 62-70",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ezd_t3_62-70.pdf"
+        },
+        {
+          "nombre": "T2 71-83 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ezd_t3_71-83.pdf"
+        },
+        {
+          "nombre": "EXTRAS 1",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ezd_t3_extras1.pdf"
+        },
+        {
+          "nombre": "EXTRAS 2",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ezd_t3_extras2.pdf"
         }
       ],
       "estado": "Completo"
@@ -2513,6 +2709,34 @@
       ],
       "estado": "2da Temporada no confirman fecha"
     },
+     {
+      "nombre": "Esa colita será mía",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/E/esacolitaseramia.jpg",
+      "descripcion": "Yumin, el último heredero de un clan de gatos patinegros, está en celo y desesperado por tener descendencia. Cree que puede embarazar a un humano... pero al conocer a Taejun, termina siendo él el montado. ¿Logrará escapar o quedará atrapado en su propio deseo?",
+      "capitulos": [
+        {
+          "nombre": "T1 1-10",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ecm_t1_01-10.pdf"
+        },
+        {
+          "nombre": "T1 11-20",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ecm_t1_11-20.pdf"
+        },
+        {
+          "nombre": "T1 21-23 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ecm_t1_21-23.pdf"
+        },
+        {
+          "nombre": "T2 24-30",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ecm_t2_24-30.pdf"
+        },
+        {
+          "nombre": "T2 31-36",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/ecm_t2_31-36.pdf"
+        }
+      ],
+      "estado": "En emisión"
+    },
     {
       "nombre": "Escondido",
       "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/E/escondido.jpg",
@@ -2521,6 +2745,34 @@
         {
           "nombre": "Historia completa",
           "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/es_completo.pdf"
+        }
+      ],
+      "estado": "Completo"
+    },
+    {
+      "nombre": "Ex candalo",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/E/excandalo.jpg",
+      "descripcion": "Después de ser manipulado y abandonado por su ex mientras era aprendiz, Taejin logra debutar. Sin embargo, Jaerim, el verdadero instigador de abuso, se junta al grupo de Taejin. Un día corre rumores de conflicto entre los dos y para reducirlo, ambos deben tomar medidas drásticas.",
+      "capitulos": [
+        {
+          "nombre": "1 - 10",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/exc_01-10.pdf"
+        },
+        {
+          "nombre": "11 - 20",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/exc_11-20.pdf"
+        },
+        {
+          "nombre": "21 - 30",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/exc_21-30.pdf"
+        },
+        {
+          "nombre": "31 - 40",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/exc_31-40.pdf"
+        },
+        {
+          "nombre": "41 - 53 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/E/exc_41-53.pdf"
         }
       ],
       "estado": "Completo"
