@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "catalogo": [
     {
       "nombre": "1 to 10",
@@ -4864,6 +4864,110 @@
         }
       ],
       "estado": "En emisión"
+    },
+    {
+      "nombre": "SERAPH OF THE END",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/S/sote.jpg",
+      "descripcion": "TEMPORADA 1 y 2",
+      "capitulos": [
+        {
+          "nombre": "T1 CAPITULO 1",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t1_01.mp4"
+        },
+        {
+          "nombre": "T1 CAPITULO 2",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t1_02.mp4"
+        },
+        {
+          "nombre": "T1 CAPITULO 3",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t1_03.mp4"
+        },
+        {
+          "nombre": "T1 CAPITULO 4",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t1_04.mp4"
+        },
+        {
+          "nombre": "T1 CAPITULO 5",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t1_05.mp4"
+        },
+        {
+          "nombre": "T1 CAPITULO 6",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t1_06.mp4"
+        },
+        {
+          "nombre": "T1 CAPITULO 7",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t1_07.mp4"
+        },
+        {
+          "nombre": "T1 CAPITULO 8",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t1_08.mp4"
+        },
+        {
+          "nombre": "T1 CAPITULO 9",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t1_09.mp4"
+        },
+        {
+          "nombre": "T1 CAPITULO 10",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t1_10.mp4"
+        },
+        {
+          "nombre": "T1 CAPITULO 11",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t1_11.mp4"
+        },
+        {
+          "nombre": "T1 CAPITULO 12 FIN",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t1_12.mp4"
+        },
+        {
+          "nombre": "T2 CAPITULO 1",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t2_01.mp4"
+        },
+        {
+          "nombre": "T2 CAPITULO 2",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t2_02.mp4"
+        },
+        {
+          "nombre": "T2 CAPITULO 3",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t2_03.mp4"
+        },
+        {
+          "nombre": "T2 CAPITULO 4",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t2_04.mp4"
+        },
+        {
+          "nombre": "T2 CAPITULO 5",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t2_05.mp4"
+        },
+        {
+          "nombre": "T2 CAPITULO 6",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t2_06.mp4"
+        },
+        {
+          "nombre": "T2 CAPITULO 7",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t2_07.mp4"
+        },
+        {
+          "nombre": "T2 CAPITULO 8",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t2_08.mp4"
+        },
+        {
+          "nombre": "T2 CAPITULO 9",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t2_09.mp4"
+        },
+        {
+          "nombre": "T2 CAPITULO 10",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t2_10.mp4"
+        },
+        {
+          "nombre": "T2 CAPITULO 11",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t2_11.mp4"
+        },
+        {
+          "nombre": "T2 CAPITULO 12 FIN",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t2_12.mp4"
+        }
+      ],
+      "estado": "Completo"
     }
   ]
 }
