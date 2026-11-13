@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "catalogo": [
     {
       "nombre": "1 to 10",
@@ -4965,6 +4965,46 @@
         {
           "nombre": "T2 CAPITULO 12 FIN",
           "url": "https://github.com/crtorresp1/nesloveview/releases/download/se/sote_t2_12.mp4"
+        }
+      ],
+      "estado": "Completo"
+    },
+    {
+      "nombre": "",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/H/hastaun.jpg",
+      "descripcion": "ESPAÑOL FINALIZADO",
+      "capitulos": [
+        {
+          "nombre": "CAPITULO 1",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/hum/hupm_1.mp4"
+        },
+        {
+          "nombre": "CAPITULO 2",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/hum/hupm_2.mp4"
+        },
+        {
+          "nombre": "CAPITULO 3",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/hum/hupm_3.mp4"
+        },
+        {
+          "nombre": "CAPITULO 4",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/hum/hupm_4.mp4"
+        },
+        {
+          "nombre": "CAPITULO 5",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/hum/hupm_5.mp4"
+        },
+        {
+          "nombre": "CAPITULO 6",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/hum/hupm_6.mp4"
+        },
+        {
+          "nombre": "CAPITULO 7",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/hum/hupm_7.mp4"
+        },
+        {
+          "nombre": "CAPITULO 8",
+          "url": "https://github.com/crtorresp1/nesloveview/releases/download/hum/hupm_8.mp4"
         }
       ],
       "estado": "Completo"
