@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "catalogo": [
     {
       "nombre": "1 to 10",
@@ -214,6 +214,26 @@
       "estado": "Completo"
     },
     {
+      "nombre": "A shoulder to cry on",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/A/ashouldertocryon.jpg",
+      "descripcion": "A modo de juego Taehyun acuso y difamo a Daeyeol como un acosador. Cuando la vida de Daeyeol como un extraordinario atleta de tiro al arco se pone en peligro, le pide a Taehyun que aclare los malentendidos, sin embargo durante su reunión se encuentra sofocado por la actitud intimidante de Taehyu",
+      "capitulos": [
+        {
+          "nombre": "1 - 10",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/A/avf_01-10.pdf"
+        },
+        {
+          "nombre": "11 - 20",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/A/avf_11-20.pdf"
+        },
+        {
+          "nombre": "21 - 31 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/A/avf_21-30.pdf"
+        }
+      ],
+      "estado": "Completo"
+    },
+    {
       "nombre": "Ácido o amargo",
       "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/A/acidooamargo.jpg",
       "descripcion": "Mientras Jiwon disfruta de un rato íntimo con un hombre que vino para pasar la noche, escucha a los vecinos pelear. Al principio no le da importancia, pero a partir del día siguiente empieza a oír, durante toda la noche, a alguien borracho cantando canciones de ruptura. Incapaz de soportarlo más, decide ir a la puerta de al lado. Allí descubre a Hyun viendo el video de un concurso de canto que se ha convertido en su peor recuerdo del pasado. Y cuando Hyun ve que el hombre del video aparece frente a él, se queda completamente atónito…",
@@ -233,6 +253,38 @@
         {
           "nombre": "ESPECIALES 1-2",
           "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/A/aco_t1_especial_01-02.pdf"
+        }
+      ],
+      "estado": "En emisión"
+    },
+    {
+      "nombre": "Advertencia sobre bestias salvajes",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/A/advertenciasobrebs.jpg",
+      "descripcion": "Yoon-tae un Alfa dominante, bestia y pantera negra conglomerado con un aspecto de personaje de televisión, se mudó al campo donde vive Jeong-seo, diciendo que busca a su primer amor. Jeong-seo es una temible hurona. Que odia a las bestias, Jeong-seo pensó que jamás volvería a tener amigos. Por alguna razón, Yoon-tae no deja de verse envuelto con Jeong-seo. Pero qué debería hacer? Ese “primer amor” que Yoon-tae ha estado buscando... Parece ser Jeong-seo.¿Y si encuentras a tu primer amor?. Tendremos cachorros enseguida. De acuerdo, no puedo permitir que me descubran. Pero Jeong-seo no lo sabe. Ya es demasiado.",
+      "capitulos": [
+        {
+          "nombre": "T1 1-10",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/A/adv_t1_01-10.pdf"
+        },
+        {
+          "nombre": "T1 11-20",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/A/adv_t1_11-20.pdf"
+        },
+        {
+          "nombre": "T1 21-30",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/A/adv_t1_21-30.pdf"
+        },
+        {
+          "nombre": "T1 31-36 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/A/adv_t1_31-36.pdf"
+        },
+        {
+          "nombre": "T2 37-45",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/A/adv_t2_37-45.pdf"
+        },
+        {
+          "nombre": "T2 46",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/A/adv_t2_46.pdf"
         }
       ],
       "estado": "En emisión"
@@ -910,6 +962,26 @@
       "estado": "Completo"
     },
     {
+      "nombre": "Aviso de fuertes lluvias",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/A/avisodefuerteslluvias.jpg",
+      "descripcion": "Un día lluvioso, Woo-jin, el amigo de la infancia y amor de Ji-oh, es poseído por un fantasma en un accidente. Ji-oh no podía quedarse de brazos cruzados, pues Woo-jin había sido su salvador, impidiéndole seguir su camino. Así que Ji- oh se alía con el psíquico Gyeon-woo para restaurar el cuerpo de Woo-jin. Tras una serie de idas y venidas, logran exorcizar al fantasma temporalmente, pero este y el alma de Woo-jin comienzan a interactuar",
+      "capitulos": [
+        {
+          "nombre": "1 - 10",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/A/avf_01-10.pdf"
+        },
+        {
+          "nombre": "11 - 20",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/A/avf_11-20.pdf"
+        },
+        {
+          "nombre": "21 - 30 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/A/avf_21-30.pdf"
+        }
+      ],
+      "estado": "Completo"
+    },
+    {
       "nombre": "Bad apple",
       "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/B/badapple.jpg",
       "descripcion": "Rian Taylor, agente secreto hermoso y profesional en la seducción, tiene un nuevo objetivo: Lorenzo Stefano, también conocido como Bad Apple. Juró que jamás se enamoraría de ningún objetivo, pero lo que empezó como un encontronazo pasado por agua puede volverse cada vez más podrido.",
@@ -1156,6 +1228,22 @@
         }
       ],
       "estado": "Completo"
+    },
+    {
+      "nombre": "Bienvenidos a Howoldang",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/B/bienvenidosahowoldang.jpg",
+      "descripcion": "Haeil y Hyeon crecieron juntos en un orfanato, como si fueran hermanos. Sin embargo, un día Hyeon comienza a sufrir un extraño deseo de abalanzarse sobre Haeil cada noche y, curiosamente, al llegar la mañana no recuerda absolutamente nada de lo ocurrido. Para descubrir la causa, Haeil visita a Sawol, una chamana gumiho que lleva viviendo 300 años. En cuanto Sawol ve a Haeil, se da cuenta de que él es un shingamul, alguien capaz de aliviar su maldición... Yo te daré lo que necesitas, así que tú dame lo que yo quiero.",
+      "capitulos": [
+        {
+          "nombre": "1 - 10",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/B/bll_01-10.pdf"
+        },
+        {
+          "nombre": "11 - 16",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/B/bll_11-20.pdf"
+        }
+      ],
+      "estado": "En emisión"
     },
     {
       "nombre": "BJ Alex",
@@ -1586,6 +1674,34 @@
       "estado": "Completo"
     },
     {
+      "nombre": "Contrato de crianza",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/C/contratodecrianza.jpg",
+      "descripcion": "El padre soltero Son Hee-woo se ve envuelto en un ataque de identidad desconocida. Quien aparece frente a esta crisis es... su ex amante, Moon Tae-ha. Tae-ha se acerca diciendo que, como la esposa ha muerto, ahora él asumirá la responsabilidad, pero sus palabras solo resultan sospechosas. Y entonces, se revela la verdad. Su romance con Hee-woo fue, desde el principio, un acercamiento planeado. Tragándose la traición, Hee-woo toma una decisión: Ya no me dejaré engañar más. Esta vez, seré yo quien te use a ti. Así, una segunda relación que comenzó con mentiras empieza a tomar un nuevo rumbo.",
+      "capitulos": [
+        {
+          "nombre": "T1 1-10",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/cdc_t1_01-10.pdf"
+        },
+        {
+          "nombre": "T1 11-20",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/cdc_t1_11-20.pdf"
+        },
+        {
+          "nombre": "T1 21-22 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/cdc_t1_21-22.pdf"
+        },
+        {
+          "nombre": "ESPECIAL VERANO",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/cdc_t1_especial.pdf"
+        },
+        {
+          "nombre": "T2 23-33",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/cdc_t2_23-33.pdf"
+        },
+      ],
+      "estado": "En emisión"
+    },
+    {
       "nombre": "Confesión Salada",
       "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/C/confesionsalada.jfif",
       "descripcion": "Este manga de drama y romance contemporáneo explora las complejas dinámicas entre los alfas y betas en un mundo donde las jerarquías sociales son clave. Jo Yeon-oh, el joven CEO de la Galería Naban y heredero de la Fundación Haeseong, se enfrenta a un dilema emocional inesperado cuando su amigo de toda la vida, So Gi-hyeon, revela sus profundos sentimientos hacia él. La situación se torna tensa tras esta confesión; el alfa dominante no solo reacciona con desprecio, sino que lo hace de una manera cruel que desestabiliza la relación: Olvidaste que eres un beta.",
@@ -1785,6 +1901,18 @@
         {
           "nombre": "T3 71-77 FIN",
           "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/cu_t3_71-77.pdf"
+        }
+      ],
+      "estado": "Completo"
+    },
+    {
+      "nombre": "Cuando la suerte y el destino se encuentran",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/C/cuandolasuerte.jpg",
+      "descripcion": "En medio del dolor por la pérdida de su abuelo, Aaron conoce a Joseph, un hombre enigmático que dice haber sido discípulo del difunto. Fascinado por su misteriosa aura, Aaron se deja envolver en una relación que pronto desdibujará los límites entre la realidad y el sueño. Noche tras noche, un extraño aparece en sus sueños, tan familiar y perturbadoramente parecido a Joseph que Aaron comienza a preguntarse si su encuentro fue obra del destino… o de algo mucho más oscuro.",
+      "capitulos": [
+        {
+          "nombre": "1 - 8 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/cua_01-08.pdf"
         }
       ],
       "estado": "Completo"
@@ -4780,6 +4908,22 @@
         }
       ],
       "estado": "Completo"
+    },
+    {
+      "nombre": "Un XX con muchos secretos",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/U/unxx.jpg",
+      "descripcion": "Taegyeol, un estudiante de 20 años que regresa a la universidad, recibe de repente la llamada de un compañero que acaba de conocer. Le sorprende el comentario, pero intenta restarle importancia. Ofendido por la comparación del profesor con otros estudiantes que regresan, Taegyeol se dirige impulsivamente a clase, donde se encuentra con Muwon, la misma persona que lo llamó apestoso. Cuando Taegyeol lo confronta por su comentario anterior, Muwon ofrece una respuesta ambigua, casi inexpresiva. Aunque esta evasiva irrita a Taegyeol, extrañamente no puede apartar la vista de él. Finalmente, Taegyeol se acerca y le propone hacerse amigos. ¿Quieres quedar conmigo más tarde?No.... A pesar de decir claramente que no, Muwon espera a Taegyeol en la puerta de la escuela después de clase. ¿Cuáles son sus verdaderos sentimientos?",
+      "capitulos": [
+        {
+          "nombre": "0 - 13 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/U/ux_01-13.pdf"
+        },
+        {
+          "nombre": "SS 01",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/U/us_ss_01.pdf"
+        }
+      ],
+      "estado": "En emisión"
     },
     {
       "nombre": "Wetsand",
