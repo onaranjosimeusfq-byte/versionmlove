@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "catalogo": [
     {
       "nombre": "1 to 10",
@@ -1430,6 +1430,38 @@
       "estado": "En emisión"
     },
     {
+      "nombre": "Chocolate Snow",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/C/chocolatesnow.jpg",
+      "descripcion": "Daejoon, borracho, confunde a Aoi con la persona que le gusta. Al principio, Aoi le sigue la corriente, haciéndole creer a Daejoon que es a quien desea. Sin embargo, tras escuchar la historia de Daejoon y comprender sus sentimientos, Aoi decide cambiar de actitud. Empieza a sentir algo genuino por Daejoon y quiere ser su amante, lo que prepara el terreno para un posible cambio en la dinámica de su relación.",
+      "capitulos": [
+        {
+          "nombre": "T1 1-10",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/chs_t1_01-10.pdf"
+        },
+        {
+          "nombre": "T1 11-20",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/chs_t1_11-20.pdf"
+        },
+        {
+          "nombre": "T1 21-30",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/chs_t1_21-30.pdf"
+        },
+        {
+          "nombre": "T1 31-40",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/chs_t1_31-40.pdf"
+        },
+        {
+          "nombre": "T1 41-50 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/chs_t1_41-50.pdf"
+        },
+        {
+          "nombre": "T2 51-58",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/ce_t2_51-58.pdf"
+        }
+      ],
+      "estado": "En emisión"
+    },
+    {
       "nombre": "Checkmate",
       "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/C/checkamate.jpg",
       "descripcion": "Manhwa BL de corte psicológico que sigue la historia de Soohyun, un joven que vivió resentido toda su secundaria al ser el eterno segundón detrás del perfecto y popular Eunsung. Años después, tras enterarse de que su antiguo rival está envuelto en un gran escándalo mediático, una intensa obsesión renace en él; decidido a destruirlo por completo y verlo caer, Soohyun se convierte en reportero, iniciando así un oscuro y tenso juego de manipulación, control y guerra psicológica entre ambos.",
@@ -1626,6 +1658,70 @@
       "estado": "En emisión"
     },
     {
+      "nombre": "Como ama Geomjog",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/C/comoamag.jpg",
+      "descripcion": "Tras descubrir que es un omega, Yoontae huye de su madre para evitar que lo prostituya. Sin embargo, termina atrapado en esa misma vida vendiendo su cuerpo para sobrevivir. Tras sufrir más abusos, un extraño llamado Wooseok lo rescata. ¿Será un amor real o solo otra trampa?",
+      "capitulos": [
+        {
+          "nombre": "1 - 12 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/cag_01-12.pdf"
+        }
+      ],
+      "estado": "Completo"
+    },
+    {
+      "nombre": "Como conquistar un amor no correspondido",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/C/comoconquistar.jpg",
+      "descripcion": "En el día de su graduación de preparatoria, el eterno rival de toda la vida se le acerca, no para desafiarlo una vez más, sino para confesarle algo que jamás esperó: sus verdaderos sentimientos. Aunque no fue la escena que había imaginado, creyó haber ganado aquella última partida. Años después, el destino los cruza de nuevo. Esta vez, él ya no está solo: un pequeño niño lo acompaña. En ese encuentro inesperado, los recuerdos del pasado, las emociones no resueltas y una atracción latente resurgen, dejando claro que la historia entre ellos aún no ha terminado.",
+      "capitulos": [
+        {
+          "nombre": "1 - 10",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/coq_01-10.pdf"
+        },
+        {
+          "nombre": "11 - 20",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/coq_11-20.pdf"
+        },
+        {
+          "nombre": "21 - 30",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/coq_21-30.pdf"
+        },
+        {
+          "nombre": "31 - 40 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/coq_31-40.pdf"
+        }
+      ],
+      "estado": "Completo"
+    },
+    {
+      "nombre": "Como enamorar a un hombre alfa",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/C/comoenamoraruha.jpg",
+      "descripcion": "Una oficinista común, pero con un talento verbal sobresaliente, es transportada a un mundo de un juego otome que solía jugar. En este nuevo entorno, se convierte en un personaje de apariencia encantadora y tiene la oportunidad de conocer a su favorito del juego. Con todo a su favor, su objetivo es conquistar al chico de sus sueños. Sin embargo, comete un error inesperado al elegir al presidente de la compañía, un hombre severo y con un comportamiento aún más despiadado que el del protagonista del juego. Ahora, debe enfrentarse al desafío de utilizar su habilidad verbal para conquistar a este presidente huraño y transformarlo en el héroe amable que el juego prometía. ¿Podrá lograrlo?",
+      "capitulos": [
+        {
+          "nombre": "T1 1-10",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/cha_01-10.pdf"
+        },
+        {
+          "nombre": "T1 11-20",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/cha_11-20.pdf"
+        },
+        {
+          "nombre": "T1 21-28 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/cha_21-28.pdf"
+        },
+        {
+          "nombre": "T2 29-42",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/cha_29-42.pdf"
+        },
+        {
+          "nombre": "ESPECIALES",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/cha_especiales.pdf"
+        }
+      ],
+      "estado": "En pausa prolongada"
+    },
+    {
       "nombre": "Como el agua y el aceite",
       "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/C/comoelaguayaceite.jpg",
       "descripcion": "¿Es posible enamorarse a primera vista y justo de la persona que es completamente opuesta a ti? Euntak un tonto que solamente puede enamorarse a primera vista, recibe una propuesta muy inesperada de su apuesto Hyung…¿aceptará o rechazará su oferta?",
@@ -1669,6 +1765,26 @@
         {
           "nombre": "EXTRAS B FIN",
           "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/caa_extrasb.pdf"
+        }
+      ],
+      "estado": "Completo"
+    },
+    {
+      "nombre": "Con un cazador 10 veces por noche",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/C/conuncazador.jpg",
+      "descripcion": "No lo pienses. Hermano, ¿quieres verme volverme loco? Un mundo donde se abren mazmorras y algunas personas se manifiestan como cazadores. En Corea del Sur, los cazadores están exentos del alistamiento militar a cambio de 10 años de servicio obligatorio.Como resultado, se extiende una tendencia para que las familias que viven un poco más adopten a un niño que pueda convertirse en cazador.Yeon-woo es un caso de ser adoptado de esa manera.Fue adoptado por Jungwoo, que era un año más joven, se convirtió en cazador y se alistó...",
+      "capitulos": [
+        {
+          "nombre": "1 - 10",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/cnc_01-10.pdf"
+        },
+        {
+          "nombre": "11 - 20",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/cnc_11-20.pdf"
+        },
+        {
+          "nombre": "21 - 25 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/cnc_21-25.pdf"
         }
       ],
       "estado": "Completo"
@@ -1764,6 +1880,22 @@
         }
       ],
       "estado": "En emisión"
+    },
+    {
+      "nombre": "Cree en mi señal",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/C/creeenmiseñal.jpg",
+      "descripcion": "Soo-jeong siempre ha sacado de quicio al egocéntrico Eunchan desde que apareció ante él de la nada.",
+      "capitulos": [
+        {
+          "nombre": "1 - 20",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/crr_t1_01-10.pdf"
+        },
+        {
+          "nombre": "21 - 41 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/C/crr_t1_11-20.pdf"
+        }
+      ],
+      "estado": "Completo"
     },
     {
       "nombre": "Crónicas de Causas y anhelos",
@@ -1942,6 +2074,50 @@
       "estado": "2da Temporada no confirman fecha"
     },
     {
+      "nombre": "Dark Fall",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/D/darkfall.jpg",
+      "descripcion": "Leon perdió sus poderes y, con ellos, a quienes antes seguían sus órdenes. Ahora sus seguidores solo lo quieren para cumplir un nuevo objetivo: concebir al nuevo líder de Dark Fall.",
+      "capitulos": [
+        {
+          "nombre": "T1 1-10",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/drf_t1_01-10.pdf"
+        },
+        {
+          "nombre": "T1 11-20",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/drf_t1_11-20.pdf"
+        },
+        {
+          "nombre": "T1 21-30 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/drf_t1_21-30.pdf"
+        },
+        {
+          "nombre": "T2 31-40",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/drf_t2_31-40.pdf"
+        },
+        {
+          "nombre": "T2 41-50",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/drf_t2_41-50.pdf"
+        },
+        {
+          "nombre": "T2 51-60",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/drf_t2_51-60.pdf"
+        },
+        {
+          "nombre": "T2 61-68 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/drf_t2_61-68.pdf"
+        },
+        {
+          "nombre": "EXTRAS 1-8 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/drf_t2_extras.pdf"
+        },
+        {
+          "nombre": "T3 69-78",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/drf_t3_69-78.pdf"
+        }
+      ],
+      "estado": "En emisión"
+    },
+    {
       "nombre": "Dash",
       "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/D/dash.jpg",
       "descripcion": " Jung Jiheon fue una vez un nadador prometedor, pero se retiró temprano debido a una lesión y ahora está trabajando diligentemente en una agencia deportiva. Actualmente, el mayor interés en el mercado deportivo no es otro que Kwon Jaekyung, y numerosas agencias están luchando ferozmente entre bastidores para reclutarlo. Mientras tanto, Jiheon recibe la orden de su jefe de atraer de alguna manera a Jaekyung a su agencia, y milagrosamente lo logra gracias a su insignificante y breve relación de ir al mismo centro de natación hace 10 años.",
@@ -2001,6 +2177,18 @@
       ],
       "estado": "Completo"
     },
+     {
+      "nombre": "De pies a cabeza",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/D/depiesacabeza.jpg",
+      "descripcion": "𝐒𝐚𝐧𝐠𝐡𝐨𝐨𝐧 𝐲 𝐒𝐞𝐨𝐲𝐨𝐨𝐧 𝐡𝐚𝐧 𝐬𝐢𝐝𝐨 𝐢𝐧𝐬𝐞𝐩𝐚𝐫𝐚𝐛𝐥𝐞𝐬 𝐝𝐞𝐬𝐝𝐞 𝐧𝐢ñ𝐨𝐬, 𝐡𝐚𝐬𝐭𝐚 𝐪𝐮𝐞 𝐬𝐮 𝐚𝐦𝐢𝐬𝐭𝐚𝐝 𝐬𝐞 𝐜𝐨𝐧𝐯𝐢𝐞𝐫𝐭𝐞 𝐞𝐧 𝐚𝐦𝐨𝐫 𝐲 𝐜𝐨𝐦𝐢𝐞𝐧𝐳𝐚𝐧 𝐮𝐧𝐚 𝐫𝐞𝐥𝐚𝐜𝐢ó𝐧. 𝐒𝐢𝐧 𝐞𝐦𝐛𝐚𝐫𝐠𝐨, 𝐒𝐚𝐧𝐠𝐡𝐨𝐨𝐧 𝐞𝐯𝐢𝐭𝐚 𝐜𝐮𝐚𝐥𝐪𝐮𝐢𝐞𝐫 𝐜𝐨𝐧𝐭𝐚𝐜𝐭𝐨 í𝐧𝐭𝐢𝐦𝐨, 𝐡𝐚𝐜𝐢𝐞𝐧𝐝𝐨 𝐪𝐮𝐞 𝐒𝐞𝐨𝐲𝐨𝐨𝐧 𝐬𝐞 𝐬𝐢𝐞𝐧𝐭𝐚 𝐫𝐞𝐜𝐡𝐚𝐳𝐚𝐝𝐨. 𝐂𝐮𝐚𝐧𝐝𝐨 𝐬𝐮𝐬 𝐞𝐦𝐨𝐜𝐢𝐨𝐧𝐞𝐬 𝐟𝐢𝐧𝐚𝐥𝐦𝐞𝐧𝐭𝐞 𝐞𝐬𝐭𝐚𝐥𝐥𝐚𝐧, 𝐒𝐚𝐧𝐠𝐡𝐨𝐨𝐧 𝐫𝐞𝐯𝐞𝐥𝐚 𝐮𝐧 𝐬𝐞𝐜𝐫𝐞𝐭𝐨 𝐪𝐮𝐞 𝐡𝐚𝐛í𝐚 𝐨𝐜𝐮𝐥𝐭𝐚𝐝𝐨 𝐝𝐮𝐫𝐚𝐧𝐭𝐞 𝐚ñ𝐨𝐬. 𝐏𝐞𝐫𝐨 𝐥𝐚 𝐫𝐞𝐚𝐜𝐜𝐢ó𝐧 𝐝𝐞 𝐒𝐞𝐨𝐲𝐨𝐨𝐧 𝐚𝐧𝐭𝐞 𝐥𝐚 𝐯𝐞𝐫𝐝𝐚𝐝 𝐫𝐞𝐬𝐮𝐥𝐭𝐚 𝐢𝐧𝐞𝐬𝐩𝐞𝐫𝐚𝐝𝐚.",
+      "capitulos": [
+        {
+          "nombre": "1 - 9 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dpc_01-09.pdf"
+        }
+      ],
+      "estado": "Completo"
+    },
     {
       "nombre": "Dear 00",
       "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/D/dear00.jfif",
@@ -2044,6 +2232,78 @@
         }
       ],
       "estado": "2da Temporada no confirman fecha"
+    },
+    {
+      "nombre": "Dear Door",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/D/deardoor.jpg",
+      "descripcion": "Existen diferentes maneras de ir al infierno. Aunque nadie me dijo que yo sería la puerta y mi orgasmo la llave.",
+      "capitulos": [
+        {
+          "nombre": "1 - 10",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/ddr_01-10.pdf"
+        },
+        {
+          "nombre": "11 - 20",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/ddr_11-20.pdf"
+        },
+        {
+          "nombre": "21 - 30",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/ddr_21-30.pdf"
+        },
+        {
+          "nombre": "31 - 40",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/ddr_31-40.pdf"
+        },
+        {
+          "nombre": "41 - 50",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/ddr_41-50.pdf"
+        },
+        {
+          "nombre": "51 - 60",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/ddr_51-60.pdf"
+        },
+        {
+          "nombre": "61 - 70",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/ddr_61-70.pdf"
+        },
+        {
+          "nombre": "71 - 80",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/ddr_71-80.pdf"
+        },
+        {
+          "nombre": "81 - 90",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/ddr_81-90.pdf"
+        },
+        {
+          "nombre": "91 - 100",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/ddr_91-100.pdf"
+        },
+        {
+          "nombre": "101 - 110",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/ddr_101-110.pdf"
+        },
+        {
+          "nombre": "111 - 120",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/ddr_111-120.pdf"
+        },
+        {
+          "nombre": "121 - 130 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/ddr_121-130.pdf"
+        },
+        {
+          "nombre": "EXTRAS 1-10",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/ddr_extras_1-10.pdf"
+        },
+        {
+          "nombre": "EXTRAS 11-20",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/ddr_extras_11-20.pdf"
+        },
+        {
+          "nombre": "EXTRAS 21-33 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/ddr_extras_21-33.pdf"
+        }
+      ],
+      "estado": "Completo"
     },
     {
       "nombre": "Dearest",
@@ -2174,6 +2434,18 @@
       "estado": "Completo"
     },
     {
+      "nombre": "Deseo esperanzado",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/D/deseoesperanzado.jpg",
+      "descripcion": "ae-eun es un omega que depende mucho de su hermano menor alfa, Taeho. No se debe solo a su frágil salud; la única razón por la que fue adoptado de un orfanato por la adinerada familia Kwon fue porque un joven Taeho afirmó querer a Tae-eun. Desde entonces, Tae-eun ha necesitado a su hermano menor como ancla en el mar hostil que es la casa Kwon. De hecho, quiere a Taeho como algo más que un hermano. Sin embargo, lo que Tae-eun no sabe es que Taeho ha cambiado su vida de maneras que nunca imaginó desde su primer encuentro...",
+      "capitulos": [
+        {
+          "nombre": "0 - 4 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dez_00-04.pdf"
+        }
+      ],
+      "estado": "Completo"
+    },
+    {
       "nombre": "Deseo sucio",
       "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/D/deseosucio.jpg",
       "descripcion": "Seongyul está enamorado de Seungwon,un amigo que conoce desde la infancia. Existe una brecha insalvable entre la diferencia de edad, las diferencias familiares y los seres Alfa y Beta.Seongyul, quiende repente se convierte en un Omega y pierde su trabajo y necesita mucho dinero,pierde sus sentimientos por Seungwon al escuchar que se va a casar y entra al establecimiento con un sentimiento de desesperación.Pero,asustado por la fuerte feromona alfa y la actitud de tratar a las personas como objetos.",
@@ -2240,6 +2512,122 @@
         }
       ],
       "estado": "Regreso de 2da Temporada el 29 Septiembre"
+    },
+    {
+      "nombre": "Diciembre",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/D/diciembre.jpg",
+      "descripcion": "Un alfa inactivo y un omega recesivo que huyen de sus respectivos problemas se encuentran en un frío diciembre obteniendo un pequeño consuelo del otro. Después de 2 años se vuelven a encontrar, otra vez en diciembre, pero un tanto más cálido.",
+      "capitulos": [
+        {
+          "nombre": "1 - 10",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dic_01-10.pdf"
+        },
+        {
+          "nombre": "11 - 20",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dic_11-20.pdf"
+        },
+        {
+          "nombre": "21 - 30",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dic_21-30.pdf"
+        },
+        {
+          "nombre": "31 - 40",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dic_31-40.pdf"
+        },
+        {
+          "nombre": "41 - 47",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dic_41-47.pdf"
+        },
+        {
+          "nombre": "48 - 50",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dic_48-50.pdf"
+        },
+        {
+          "nombre": "51 - 58 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dic_51-58.pdf"
+        }
+      ],
+      "estado": "Completo"
+    },
+    {
+      "nombre": "Domar al tigre",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/D/domartigre.jpg",
+      "descripcion": "Ahn Geum-hoo desea domar a este tigre salvaje. Le nombra Beom y lo invita al mundo que este Don Nadie (Nom) nunca ha conocido...",
+      "capitulos": [
+        {
+          "nombre": "1 - 10",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dmt_01-10.pdf"
+        },
+        {
+          "nombre": "11 - 20",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dmt_11-20.pdf"
+        },
+        {
+          "nombre": "21 - 30",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dmt_21-30.pdf"
+        },
+        {
+          "nombre": "31 - 40",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dmt_31-40.pdf"
+        },
+        {
+          "nombre": "41 - 50",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dmt_41-50.pdf"
+        },
+        {
+          "nombre": "51 - 60",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dmt_51-60.pdf"
+        },
+        {
+          "nombre": "61 - 70 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dmt_61-70.pdf"
+        },
+        {
+          "nombre": "EXTRAS 1-10 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dmt_extras.pdf"
+        }
+      ],
+      "estado": "Completo"
+    },
+    {
+      "nombre": "Deuda de amor",
+      "imagen": "https://cdn.jsdelivr.net/gh/onaranjosimeusfq-byte/versionmlove@main/PORTADAS/D/deudadeamor.jpg",
+      "descripcion": "Han Dongqing y Hong Yue son un par de tío y sobrino no relacionados biológicamente Los padres de Hong Yue estafaron a Han Dongqing con una gran suma de dinero, devastándolo tanto física como mentalmente y trastornando su mundo por completo. Hong Yue terminó asumiendo las deudas dejadas por sus padres, prometiendo enmendar la vida arruinada de su tío con la suya propia.",
+      "capitulos": [
+        {
+          "nombre": "1 - 10",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dda_01-10.pdf"
+        },
+        {
+          "nombre": "11 - 20",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dda_11-20.pdf"
+        },
+        {
+          "nombre": "21 - 30",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dda_21-30.pdf"
+        },
+        {
+          "nombre": "31 - 40",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dda_31-40.pdf"
+        },
+        {
+          "nombre": "41 - 50",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dda_41-50.pdf"
+        },
+        {
+          "nombre": "51 - 60",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dda_51-60.pdf"
+        },
+        {
+          "nombre": "61 - 68 FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dda_61-68.pdf"
+        },
+        {
+          "nombre": "EXTRAS FIN",
+          "url": "https://github.com/onaranjosimeusfq-byte/versionmlove/releases/download/D/dda_extras.pdf"
+        }
+      ],
+      "estado": "Completo"
     },
     {
       "nombre": "Drivers High",
